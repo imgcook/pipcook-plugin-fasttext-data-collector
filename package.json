@@ -18,7 +18,8 @@
   "dependencies": {
     "@pipcook/pipcook-core": "^0.5.16",
     "byline": "^5.0.0",
-    "tar-stream": "^2.1.2"
+    "tar-stream": "^2.1.2",
+    "zlib": "^1.0.5"
   },
   "devDependencies": {
     "@types/byline": "^4.2.32",
